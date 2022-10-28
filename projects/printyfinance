@@ -1,0 +1,20 @@
+{
+  "name": "printyfinance",
+  "slug": "printyfinance",
+  "date": "2022-09-22",
+  "highlight": "Low cost stable swaps",
+  "logo": "/img/printyfinance.jpg",
+  "tags": [
+    "defi"
+  ],
+  "status": "live",
+  "website": "https://printyfinance.xyz/home",
+  "twitter": "https://twitter.com/printyfinance",
+  "summary": "",
+  "telegram": "https://t.me/printyfinance",
+  "discord": "https://t.me/printyfinance",
+  "docs": "",
+  "github": "https://github.com/printyfi",
+  "token": "",
+  "cmc": ""
+}
